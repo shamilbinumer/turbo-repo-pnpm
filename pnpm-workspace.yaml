@@ -1,0 +1,3 @@
+packages:
+  - 'apps/*'      # This will include all apps under the apps/ directory
+  - 'packages/*'  # This will include all shared packages under the packages/ directory
